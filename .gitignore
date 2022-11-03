@@ -1,0 +1,5 @@
+**/node_modules
+**/.nyc_output
+**/hello-world/coverage
+**/hello-world/test-results.xml
+.aws-sam
